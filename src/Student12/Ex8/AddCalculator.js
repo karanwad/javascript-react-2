@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-
+//ioiu
 export const AddCalculator = () => {
   let [Total, setTotal] = useState(0)
   const onhandleClick=(value)=>{
